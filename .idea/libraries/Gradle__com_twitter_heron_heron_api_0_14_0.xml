@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.heron:heron-api:0.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.heron/heron-api/0.14.0/cc8e23f106c358358285f6a9d72a570bf73b4cdf/heron-api-0.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.heron/heron-api/0.14.0/c093307850899ccd6b8865891be7324ae8e153b7/heron-api-0.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

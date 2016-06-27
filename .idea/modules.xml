@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kubernetes-scheduler.iml" filepath="$PROJECT_DIR$/.idea/modules/kubernetes-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kubernetes-scheduler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kubernetes-scheduler_main.iml" group="kubernetes-scheduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kubernetes-scheduler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kubernetes-scheduler_test.iml" group="kubernetes-scheduler" />
+    </modules>
+  </component>
+</project>

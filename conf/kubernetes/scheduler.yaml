@@ -1,0 +1,11 @@
+# scheduler class for distributing the topology for execution
+heron.class.scheduler:                       com.twitter.heron.scheduler.kubernetes.KubernetesScheduler
+
+# launcher class for submitting and launching the topology
+heron.class.launcher:                        com.twitter.heron.scheduler.kubernetes.KubernetesLauncher
+
+# kubectl binary path
+heron.scheduler.kubernetes.kubectl.path:     /usr/local/bin/kubectl
+
+# location of java - pick it up from shell environment
+heron.directory.sandbox.java.home:           ${JAVA_HOME}

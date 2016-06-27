@@ -1,0 +1,13 @@
+group 'com.twitter.heron'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.twitter.heron:heron-api:0.14.0'
+    compile files('/Users/danielschonfeld/dev/heron/bazel-out/local_darwin-fastbuild/bin/heron/spi/src/java/libheron-spi.jar')
+}
